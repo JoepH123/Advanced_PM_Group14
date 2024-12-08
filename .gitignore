@@ -164,3 +164,5 @@ cython_debug/
 # Extra
 pmenv/
 .python-version
+data/BPI_Challenge_2017.csv
+data/BPI_Challenge_2017_processed.csv
